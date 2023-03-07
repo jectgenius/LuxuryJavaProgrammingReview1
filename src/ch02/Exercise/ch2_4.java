@@ -12,7 +12,7 @@ public class ch2_4 { // public으로 지정된 클래스 ch2_4 정의 시작
         int number3 = scanner.nextInt();
         int median = 0; // int형 변수 median 선언 동시에 0으로 초기화, 중간 값
 
-        if((number1 > number2) && (number1 > number2)) { 
+        if((number1 > number2) && (number1 > number2)) {
             if(number2 > number3) {
                 median = number2;
             }

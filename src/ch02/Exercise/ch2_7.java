@@ -17,4 +17,4 @@ public class ch2_7 { // public으로 지정된 클래스 ch2_7 정의 시작
 
         sc.close(); // sc 객체의 close() 메소드 호출하여 닫기
     } // main() 메소드 정의 끝
-} // ch2_7 정의 끝
+} // ch2_7 클래스 정의 끝
